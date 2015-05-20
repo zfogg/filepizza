@@ -1,0 +1,8 @@
+# vim: set filetype=yaml :
+
+ecmaFeatures:
+  modules: true
+  jsx: true
+
+rules:
+  semi: [2, "never"]
